@@ -36,17 +36,13 @@ The goal of this dashboard is to identify what drives attrition across:
 ---
 
 ## 🛠️ Tools Used
-- **Power BI** (for dashboarding and visualization)  
+- **Power BI** (for dashboarding and visualization)
+- **Power Query** Editor(Clean the Data) 
 - **Dataset**: HR Analytics Attrition dataset (commonly used IBM HR dataset)  
-
----
-
-## 📷 Dashboard Preview
-![HR Analytics Dashboard](./Dashboard_Main.png)  
 
 ---
 
 ## 🚀 How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/pusthemsreeja/hr-analytics-dashboard.git
+   https://github.com/pusthemsreeja/HR_Analytics_Dashboard.git
